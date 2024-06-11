@@ -1,0 +1,8 @@
+.vscode/
+.venv/
+uploads/
+_.log
+**pycache**/
+_.pyc
+tests/
+\*.md
